@@ -1,0 +1,20 @@
+header {
+    background-color:rgb(200, 226, 233);
+    padding: 20px;
+    text-align: center;
+}
+img {
+    width: 100%;  /* تخلي عرض الصورة يمتد لكامل العنصر اللي هي داخله */
+    height: auto; /* تخلي الارتفاع يتغير تلقائي حسب العرض للحفاظ على الأبعاد */
+    /*display: block; /* تمنع وجود مسافات تحت الصورة بسبب الـ inline display */
+}
+#mainContent{
+    background-color:rgb(200, 226, 233);
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color:rgb(200, 226, 233);
+    padding: 20px;
+    text-align: center;
+}
